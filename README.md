@@ -4,7 +4,7 @@
 | -------------------------------- | ------------------------------ |
 | git init                         | init git first                 |
 | git branch -m <new-branch-name>  | rename branch local            |
-|                                  |                                |
+| ==============================   | ============================== |
 | How to exit vim editor in VSCode | Desc                           |
 | ==============================   | ============================== |
 | Esc                              | First step to exit             |
