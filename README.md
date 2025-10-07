@@ -1,9 +1,11 @@
 # Syntax group
 
-| **Git**                           | **Desc**            |
-| --------------------------------- | ------------------- |
-| `git init`                        | init git first      |
-| `git branch -m <new-branch-name>` | rename branch local |
+| **Git**                           | **Desc**                   |
+| --------------------------------- | -------------------------- |
+| `git init`                        | init git first             |
+| `git branch -m <new-branch-name>` | rename branch local        |
+| `git branch -d <new-branch-name>` | save delete branch local   |
+| `git branch -D <new-branch-name>` | forced delete branch local |
 
 | **How to exit vim editor in VSCode** | **Desc**                     |
 | ------------------------------------ | ---------------------------- |
